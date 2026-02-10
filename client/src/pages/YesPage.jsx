@@ -1,5 +1,4 @@
 import React from 'react';
-import HeartAudioPlayer from '../components/HeartAudioPlayer.jsx';
 
 export default function YesPage() {
   return (
